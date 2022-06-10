@@ -1,14 +1,52 @@
 body{
-  background-color: #444444;
-  color: #ddd;
-    font-family: Arial, Helvetica, sans-serif;
-  margin: 10% 20%
+  
+  background-image: url("https://storage.worksome.dk/covers/cover-2e5f71772086846dcd63e1c9cefe6cc6.jpg?ts=?");
+  color: black ;
+  font-family: Arial, Helvetica, sans-serif;
+     width: 750px;
+     margin: 50px auto;
+     border: 50px solid tan;
+   
 }
 
 .exp-header{
   text-align: center;
   text-transform: uppercase;
-  border-top: 1px solid #ddd;
-  border-bottom: 1px solid #ddd;
-    background-color:rgba (0,0,0,0.1)
+  border-left: 1rem solid;
+  border-top: 10px solid lavender;
+  border-bottom: 10px solid lavender;
+  border-right: 1rem solid;
+  
+}
+img {
+  width: 150px;  
+ border-radius: 40px;
+  padding: 15px;
+}
+header {
+  font-size: 
+}
+h1 {
+  border: 2px solid black;
+  outline: lavender solid 10px;
+  margin: 5pc;  
+  padding: 20px;
+  text-align: center;
+}
+h4 {
+  font-size: 25px;
+  border-bottom: 5px solid lavender;
+  text-align: 
+    
+}
+p {
+  
+}
+ul {
+  list-style-type: circle;
+  margin: 0;
+  padding: 0;
+}
+ul{
+  list-style-position: inside;
 }
